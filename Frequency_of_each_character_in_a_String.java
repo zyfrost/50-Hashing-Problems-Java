@@ -1,4 +1,4 @@
-public class CharacterFrequencyArray {
+public class Frequency_of_each_character_in_a_String {
     public static void main(String[] args) {
         String str = "programming";
         int[] freq = new int[26]; // 26 letters in the alphabet
