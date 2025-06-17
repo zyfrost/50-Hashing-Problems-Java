@@ -1,2 +1,6 @@
 # 50-Hashing-Problems-Java
-This Repo is 50 Hashing Problems and knowing various patterns in hashing 
+## Approach
+
+| Date    | Problem Name | Topic   | Difficulty | Solved (Y/N) | Rating (1-5) | Next Review | Notes                  |
+|---------|--------------|---------|------------|--------------|--------------|-------------|------------------------|
+| 16-Jun  | Two Sum      | Hashing | Easy       | Y            | 4            | 18-Jun      | Missed duplicate check |
