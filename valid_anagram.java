@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {
@@ -23,3 +22,5 @@ class Solution {
         return true;
         }
     }
+// Time Complexity: O(n)
+// Space Complexity: O(n) for the map
